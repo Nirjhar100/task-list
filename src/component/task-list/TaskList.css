@@ -12,3 +12,10 @@
 .content{
     color: grey;
 }
+#outer {
+  position: absolute;
+top: 10%;
+bottom: 20%;
+left: 15%;
+right: 15%;
+}

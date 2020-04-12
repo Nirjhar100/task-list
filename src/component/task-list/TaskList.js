@@ -159,7 +159,7 @@ class TaskList extends Component{
 
       render() {
         return (
-          <div>
+          <div id="outer">
             <div>
               <Header as="h1">
                 <div className="app-header">📝 My Tasks</div>{" "}
